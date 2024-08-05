@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: rgb(233, 135, 66);
+}
+@font-face{
+  font-family: Cairo;
+ src: url("/public/fonts/Cairo-Regular.ttf") ;
+ weight: 500px;
+}
+
+
+@font-face{
+font-family: Cairo;
+ src: url("/public/fonts/Cairo-Regular.ttf") ;
+ weight: 500px;
+}
+
+@font-face{
+  font-family: Cairo;
+ src: url("/public/fonts/Cairo-Light.ttf") ;
+ weight:400px;
+}
+
+@font-face{
+  font-family: Cairo;
+ src: url("/public/fonts/Cairo-Medium.ttf") ;
+ weight: 600px;
+}
+
